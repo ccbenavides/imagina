@@ -1,0 +1,25 @@
+
+{
+  "short_name": "Imagina App",
+  "name": "Imagina Application",
+  "icons": [
+    {
+      "src": "brain.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "brain.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "brain.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/index.html",
+  "display": "standalone",
+  "orientation": "landscape"
+}
